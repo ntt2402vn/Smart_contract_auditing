@@ -1,4 +1,4 @@
-## Smart Contract Auditing Project\
+## Smart Contract Auditing Project 
 -- Jupiter Notebook file contains the scripts used for training and inference.\
 -- generate_description.py: script used for generating additional context for instruction dataset\
 -- scraping_source_code.py: script used for scraping source code from Etherscan\
